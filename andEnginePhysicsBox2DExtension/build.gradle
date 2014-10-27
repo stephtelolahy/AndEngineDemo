@@ -13,7 +13,12 @@ android {
             moduleName "andenginephysicsbox2dextension"
         }
     }
-
+    sourceSets {
+        main {
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['libs']
+        }
+    }
     buildTypes {
         release {
             runProguard false

@@ -13,7 +13,12 @@ android {
             moduleName "andengine_shared"
         }
     }
-
+    sourceSets {
+        main {
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['libs']
+        }
+    }
     buildTypes {
         release {
             runProguard false
