@@ -86,6 +86,7 @@
     <orderEntry type="module" module-name="andEngineSVGTextureRegionExtension" exported="" />
     <orderEntry type="module" module-name="andEnginePhysicsBox2DExtension" exported="" />
     <orderEntry type="module" module-name="andEngine" exported="" />
+    <orderEntry type="module" module-name="andEngineMultiplayerExtension" exported="" />
     <orderEntry type="module" module-name="andEngineTexturePackerExtension" exported="" />
     <orderEntry type="module" module-name="andEngineAugmentedRealityExtension" exported="" />
     <orderEntry type="module" module-name="andEngineScriptingExtension" exported="" />

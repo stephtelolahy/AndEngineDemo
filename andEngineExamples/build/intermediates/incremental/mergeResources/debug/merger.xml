@@ -5,6 +5,9 @@
         <source path="/Users/stephanohuguestelolahy/Documents/Github/SampleAndEngine/andEngineExamples/build/intermediates/exploded-aar/SampleAndEngine/andEngine/unspecified/res" />
     </dataSet>
     <dataSet config="unspecified" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/SampleAndEngine/andEngineExamples/build/intermediates/exploded-aar/SampleAndEngine/andEngineMultiplayerExtension/unspecified/res" />
+    </dataSet>
+    <dataSet config="unspecified" >
         <source path="/Users/stephanohuguestelolahy/Documents/Github/SampleAndEngine/andEngineExamples/build/intermediates/exploded-aar/SampleAndEngine/andEngineTMXTiledMapExtension/unspecified/res" />
     </dataSet>
     <dataSet config="unspecified" >

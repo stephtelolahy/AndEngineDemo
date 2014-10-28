@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/andEngineExamples/andEngineExamples.iml" filepath="$PROJECT_DIR$/andEngineExamples/andEngineExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngineLiveWallpaperExtension/andEngineLiveWallpaperExtension.iml" filepath="$PROJECT_DIR$/andEngineLiveWallpaperExtension/andEngineLiveWallpaperExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngineMODPlayerExtension/andEngineMODPlayerExtension.iml" filepath="$PROJECT_DIR$/andEngineMODPlayerExtension/andEngineMODPlayerExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineMultiplayerExtension/andEngineMultiplayerExtension.iml" filepath="$PROJECT_DIR$/andEngineMultiplayerExtension/andEngineMultiplayerExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" filepath="$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngineSVGTextureRegionExtension/andEngineSVGTextureRegionExtension.iml" filepath="$PROJECT_DIR$/andEngineSVGTextureRegionExtension/andEngineSVGTextureRegionExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngineScriptingExtension/andEngineScriptingExtension.iml" filepath="$PROJECT_DIR$/andEngineScriptingExtension/andEngineScriptingExtension.iml" />

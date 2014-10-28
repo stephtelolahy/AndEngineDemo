@@ -29,4 +29,5 @@ dependencies {
     compile project(':andEngineSVGTextureRegionExtension')
     compile project(':andEngineTexturePackerExtension')
     compile project(':andEngineTMXTiledMapExtension')
+    compile project(':andEngineMultiplayerExtension')
 }
