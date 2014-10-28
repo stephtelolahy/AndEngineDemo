@@ -1,3 +1,7 @@
 include ':app'
 include ':andEngine'
 include ':andEnginePhysicsBox2DExtension'
+include ':andEngineAugmentedRealityExtension'
+include ':andEngineDebugDrawExtension'
+include ':andEngineLiveWallpaperExtension'
+include ':andEngineMODPlayerExtension'
