@@ -80,12 +80,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 20 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="andEngineLiveWallpaperExtension" exported="" />
-    <orderEntry type="module" module-name="andEngineMODPlayerExtension" exported="" />
     <orderEntry type="module" module-name="andEnginePhysicsBox2DExtension" exported="" />
     <orderEntry type="module" module-name="andEngine" exported="" />
-    <orderEntry type="module" module-name="andEngineAugmentedRealityExtension" exported="" />
-    <orderEntry type="module" module-name="andEngineDebugDrawExtension" exported="" />
   </component>
 </module>
 

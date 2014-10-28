@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/SampleAndEngine/andEngineSVGTextureRegionExtension/build/intermediates/exploded-aar/SampleAndEngine/andEngine/unspecified/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/SampleAndEngine/andEngineSVGTextureRegionExtension/build/intermediates/bundles/debug/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/stephanohuguestelolahy/Documents/Github/SampleAndEngine/andEngineSVGTextureRegionExtension/src/androidTest/assets" />
+    </dataSet>
+
+</merger>
