@@ -1,4 +1,3 @@
-include ':app'
 include ':andEngine'
 include ':andEngineAugmentedRealityExtension'
 include ':andEngineDebugDrawExtension'

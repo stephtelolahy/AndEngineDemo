@@ -20,7 +20,6 @@
             <option value="$PROJECT_DIR$/andEngineScriptingExtension" />
             <option value="$PROJECT_DIR$/andEngineTMXTiledMapExtension" />
             <option value="$PROJECT_DIR$/andEngineTexturePackerExtension" />
-            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
       </GradleProjectSettings>

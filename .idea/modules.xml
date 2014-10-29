@@ -15,7 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/andEngineScriptingExtension/andEngineScriptingExtension.iml" filepath="$PROJECT_DIR$/andEngineScriptingExtension/andEngineScriptingExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngineTMXTiledMapExtension/andEngineTMXTiledMapExtension.iml" filepath="$PROJECT_DIR$/andEngineTMXTiledMapExtension/andEngineTMXTiledMapExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/andEngineTexturePackerExtension/andEngineTexturePackerExtension.iml" filepath="$PROJECT_DIR$/andEngineTexturePackerExtension/andEngineTexturePackerExtension.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
